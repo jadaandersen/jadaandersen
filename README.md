@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jadaandersen
-- 👀 I’m interested in science and environmental conservation.
-- 🌱 I’m currently learning data science (mainly python!)
-- 💞 I’m looking to collaborate on current projects for my Codecademy Data Science career path
-- 📫 How to reach me on Discord (jada_andersen)
+- 👀 I’m Co-founder of Xylo Systems
+- 🌿 We use data science and machine learning to measure and manage biodiveristy impact
 
 <!---
 jadaandersen/jadaandersen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
